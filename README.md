@@ -4,9 +4,6 @@
  $$\text{\color{#943442}{mars}}$$
 </h2>
 
-<p align="center">
-<img src="https://wilardo.crd.co/assets/images/gallery21/6cfc0531.jpg?v=87117d4a"/>
-
 <div align="center">
 
 <p align="center" >
