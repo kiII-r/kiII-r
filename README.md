@@ -1,7 +1,7 @@
  </p>
 
 <h2 align="center" >
- $$\text{\color{#6b5f63}{mars}}$$
+ $$\text{\color{#943442}{mars}}$$
 </h2>
 
 <p align="center">
@@ -14,7 +14,7 @@
  </p>
  
  <p align="center">
- $$\text{\color{#6b5f63}{profile wip}}$$
+ $$\text{\color{#943442}{profile wip}}$$
  </p>
 
 <p align="center" >
